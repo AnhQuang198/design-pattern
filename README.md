@@ -8,3 +8,5 @@ Code demo Design Pattern by Java (actual case in project)
 - Builder
 - Dependency Injection
 - Facade
+
+...end
