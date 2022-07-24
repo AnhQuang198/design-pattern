@@ -23,5 +23,6 @@ public class ZMain {
     System.out.println("1: " + std1.getAge().equals(std2.getAge()));
 
     System.out.println(std1.getStudentId() == std2.getStudentId());
+    System.out.println(std1.getStudentId() == std2.getStudentId());
   }
 }
